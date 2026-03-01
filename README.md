@@ -1,80 +1,40 @@
-🌍 Global Sales Analytics & Business Performance Insights
-📌 Project Overview
+# Quick Commerce Sales Intelligence – Blinkit Case Study
 
-This project analyzes multi-country sales data to generate actionable insights on revenue, profitability, product performance, and sales efficiency. It simulates a real-world analytics workflow using SQL, Python, Excel, and Power BI.
+## Project Overview
+This project is an end-to-end sales analytics case study focused on the quick-commerce domain using a Blinkit-inspired dataset. The objective is to analyze sales performance, customer behavior, and product trends by applying data cleaning, analysis, and visualization techniques.
 
-The dataset contains transactional sales data from six countries, enabling comparative analysis across regions, products, store locations, and sales representatives.
+The project demonstrates practical usage of Excel, SQL, Python, and Power BI to convert raw sales data into meaningful business insights.
 
-🎯 Business Objectives
+## Key Objectives
+- Analyze revenue, order volume, and product performance
+- Perform data cleaning and validation on real-world sales data
+- Track and visualize key business KPIs
+- Build interactive dashboards for decision-making
 
-Analyze global sales performance across multiple countries
+## Tools & Technologies
+- **Excel** – Data cleaning, preprocessing, and validation  
+- **SQL** – Data querying, KPI calculations, and analysis  
+- **Python** – Data manipulation using Pandas and NumPy  
+- **Power BI** – Interactive dashboards and visual storytelling  
+- **GitHub** – Version control and project documentation  
 
-Identify top-performing products, regions, and sales representatives
+## Key Analysis Performed
+- Handled missing values, duplicate records, and inconsistent categories
+- Created calculated metrics such as Total Sales, Average Order Value, and Total Orders
+- Analyzed sales trends by product, category, and customer ratings
+- Designed interactive Power BI dashboards for business insights
 
-Evaluate revenue and profit trends over a defined time period
+## Outcomes
+- Improved data accuracy through structured cleaning and validation
+- Identified high-performing products and revenue drivers
+- Delivered KPI-driven dashboards for quick business understanding
 
-Improve data quality through cleaning and validation
+## Learning Highlights
+- End-to-end analytics workflow from raw data to dashboards
+- Strong hands-on experience with business-focused data analysis
+- Real-world project suitable for data analyst roles
 
-Support data-driven business decision-making
+---
 
-🧠 Key Analysis Performed
-
-Consolidated 30,000+ sales transactions from 6 countries into a centralized PostgreSQL database
-
-Cleaned data by handling missing values, correcting inconsistencies, and removing duplicate records
-
-Engineered key business metrics such as Total Amount and Profit
-
-Performed country-wise, product-wise, store-wise, and sales-representative performance analysis
-
-Applied date-based filters to analyze sales trends for selected periods
-
-Validated data accuracy to ensure reliable reporting
-
-📊 KPIs & Metrics
-
-Total Revenue
-
-Total Profit
-
-Average Sales Value
-
-Units Sold
-
-Product Performance
-
-Store Location Performance
-
-Sales Representative Performance
-
-🛠️ Tools & Technologies
-
-SQL (PostgreSQL) – Data cleaning, transformation, aggregation, analysis
-
-Python (Pandas, NumPy) – Data processing and validation
-
-Excel – Data validation and exploratory analysis
-
-Power BI – Interactive dashboards and KPI visualization
-
-📈 Key Outcomes
-
-Improved visibility into global sales and profitability trends
-
-Enabled performance comparison across regions and store locations
-
-Reduced manual analysis effort through structured queries and dashboards
-
-Delivered insights to support strategic business decisions
-
-💡 Skills Demonstrated
-
-End-to-end data analytics workflow
-
-SQL-based data modeling and analysis
-
-Data cleaning and validation techniques
-
-KPI-driven reporting and visualization
-
-Business-focused data storytelling# Global-Sales-Analytics-Business-Performance-Insights-
+📌 **Author**  
+Abhiraj M L  
